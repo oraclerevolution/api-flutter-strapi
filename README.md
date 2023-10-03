@@ -3,9 +3,9 @@
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds but i'll show you how to install your environment.
 First of all you must have nodejs (lts version) on your computer so
 
-# 1 - Install Nodejs
-# 2 - Install Yarn
-# 2 - Clone the project repository
+### - Install Nodejs
+### - Install Yarn
+### - Clone the project repository
 ### run `yarn` for install all project dependencies
 ### run `yarn develop` for launch the project
 
